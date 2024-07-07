@@ -1,4 +1,5 @@
 Alzheimer-s-Classification-using-DenseNet169
+
 A CNN model to classify Alzeimer's disease in a patient using DenseNet-169 pretrained keras weights
 
 The dataset can be found here: https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images
